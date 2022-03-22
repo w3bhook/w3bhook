@@ -38,11 +38,11 @@
 <p>
 
 ## 📝 Recent Projects
-### [ XFindr: ](https://github.com/w3bhook/XFindr)<br>
+### [ XFindr (wip): ](https://github.com/w3bhook/XFindr)<br>
 Program to easily solve algebraic equations with one unknown variable.<br>
 Libraries Utilized: Vanilla Python
 
-### [ Zamer: ](https://github.com/w3bhook/Zamer)<br>
+### [ Zamer (old: CSGOBot): ](https://github.com/w3bhook/Zamer)<br>
 Software to accurately predict steam market stock prices and learns when to buy and sell.<br>
 Libraries Utilized: requests, numpy
 
