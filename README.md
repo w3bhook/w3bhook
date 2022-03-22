@@ -5,7 +5,7 @@
 
 <h3> 👨‍🦲 &nbsp;About Me </h3>
 
-- 🔭 I’m currently working on: Social Media Algo
+- 🔭 I’m currently working on: Game Reward Algo
 - :heart: My favorite language: Python
 - 🌱 I’m currently learning: nueral nets and German
 - 👯 I’m always looking to collaborate with: scientist from any field
