@@ -12,7 +12,6 @@
 - 💬 Ask me about: anything, I am happy to help
 - 🌍 I support: Capitalism, Trump, Andrzej Duda
 - 💜 Interests: Engineering, hardware and software hacking
-- ⚡ Fun fact: 
 
 <br/>
 
